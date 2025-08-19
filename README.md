@@ -78,7 +78,7 @@ customer_segment DESC
 
  **📈 Visualization:**
 
-![alt text](image-1.png)
+![Customer Segment](/images/Customer%20Segments%20By%20Total%20LTV.png)
 
 
  📊 **Key Findings:**
@@ -120,14 +120,15 @@ GROUP BY
  **📈 Visualization:**
 Customer Revenue by Cohort (NOT Adjusted for time in market) - First Purchase Date
 
-![alt text](image-4.png)
+![Customer Revenue Not Adjusted](/images/Customer%20Revenue%20by%20First%20Purchase%20Year%20Not%20Adjusted.png)
 
 Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date
-![alt text](image-3.png)
+![Customer Revenue Adjusted](/images/Customer%20Revenue%20By%20First%20Purchase%20Adjusted%20.png)
 
 
 Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
-![alt text](image-2.png)
+![Monthly revenue and Customer Trend](/images/Monthly%20Net%20Revenue%20and%20Customers%20Rolling%203%20month.png)
+
 
  📊 **Key Findings:**
  - Revenue per customer showcases an alarming decreasing trend over time
@@ -198,7 +199,8 @@ GROUP BY
 
 
  **📈 Visualization:**
-![alt text](image.png)
+![Active vs Churned](/images/Active%20VS%20Churned.png)
+
  📊 **Key Findings:**
 
  - Cohort churn stabilizes at ~90% after 2-3 years, indicating a predictable long-term retention pattern.
@@ -235,5 +237,5 @@ GROUP BY
 
  ## Technical Details
  - **Database:** PostgreSQL
- - **Analysis Tools:** PostgreSQL
+ - **Analysis Tools:** PostgreSQL, DBeaver, PGadmin
  - **Visualization:** ChatGPT
