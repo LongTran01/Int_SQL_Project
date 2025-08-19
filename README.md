@@ -118,6 +118,7 @@ GROUP BY
  ```
 
  **📈 Visualization:**
+ 
 Customer Revenue by Cohort (NOT Adjusted for time in market) - First Purchase Date
 
 ![Customer Revenue Not Adjusted](/images/Customer%20Revenue%20by%20First%20Purchase%20Year%20Not%20Adjusted.png)
